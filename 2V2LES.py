@@ -5,7 +5,8 @@ def solve(a,b,c,d,e,f,):
 
 print("===2V2LES===")
 print("""1.aX + bY = c
-2.dX + eY = f""")
+2.dX + eY = f
+""")
 
 a = input('a:')
 b = input('b:')
@@ -13,3 +14,4 @@ c = input('c:')
 d = input('d:')
 e = input('e:')
 f = input('f:')
+print()
