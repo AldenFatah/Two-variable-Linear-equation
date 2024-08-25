@@ -15,3 +15,5 @@ d = input('d:')
 e = input('e:')
 f = input('f:')
 print()
+
+print(solve(a,b,c,d,e,f,)
