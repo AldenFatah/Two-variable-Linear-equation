@@ -15,3 +15,11 @@ d = input('d:')
 e = input('e:')
 f = input('f:')
 print()
+
+if a/d == c/e:
+    if a/d == c/f:
+        print("infinite solutions exist") 
+    else:
+        print("no solution exist") 
+else:
+    print(solve(a,b,c,d,e,f)) 
